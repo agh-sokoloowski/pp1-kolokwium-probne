@@ -1,6 +1,6 @@
 # Kolokwium próbne
 
-[![tests](https://github.com/dev-sokoloowski/pp1-kolokwium-probne/actions/workflows/tests.yml/badge.svg)](https://github.com/dev-sokoloowski/pp1-kolokwium-probne/actions/workflows/tests.yml)
+[![tests](https://github.com/agh-sokoloowski/pp1-kolokwium-probne/actions/workflows/tests.yml/badge.svg)](https://github.com/agh-sokoloowski/pp1-kolokwium-probne/actions/workflows/tests.yml)
 
 Zadanie 0: absolutnie obowiązkowe, chociaż bez punktów
 
